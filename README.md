@@ -11,11 +11,6 @@
   <a href="https://velog.io/@whyceline/posts" target="_blank"><img src="https://img.shields.io/badge/techblog-666666?style=for-the-badge&logo=velog&logoColor=FFFFFF"/></a>
 </p>
 
-### 👋 About Me
-**덕성여자대학교 사이버보안 & 컴퓨터공학 전공**  
-**Email:** chevel0212@gmail.com  
-**Blog:** [whyceline's Velog](https://velog.io/@whyceline/posts)  
-
 ### 🚀 Tech Stack
 **Languages & Frameworks:**  
 <span>
@@ -37,6 +32,7 @@
   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
   ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
   ![Naver Cloud](https://img.shields.io/badge/Naver%20Cloud-03C75A?style=flat&logo=naver&logoColor=white)
+  ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 </span>
 
 **Tools & DevOps:**  
@@ -52,10 +48,11 @@
 
 <div align="center" style="width: 70%; margin: 0 auto; text-align: left;">
 
-### 🎁 PICKTORY (선물 추천 서비스) [www.picktory.net](https://www.picktory.net)  
-사용자가 선물 후보를 정리하고 상대방의 의견을 받을 수 있는 서비스  
+### 🎁 PICKTORY (선물 추천 서비스)
+사용자가 선물 후보를 정리하고 상대방의 의견을 받을 수 있는 서비스 [www.picktory.net 바로가기](https://www.picktory.net)
+
 **기술 스택:** Java, Spring Boot, JPA, MySQL, AWS EC2, S3, CloudWatch  
-👉🏻 [PICKTORY Backend](https://github.com/dnd-side-project/dnd-12th-5-backend)
+👉🏻 [PICKTORY GitHub](https://github.com/dnd-side-project/dnd-12th-5-backend)
 
 <br/>
 
