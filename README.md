@@ -52,7 +52,7 @@
 사용자가 선물 후보를 정리하고 상대방의 의견을 받을 수 있는 서비스 [www.picktory.net 바로가기](https://www.picktory.net)
 
 **기술 스택:** Java, Spring Boot, JPA, MySQL, AWS EC2, S3, CloudWatch  
-👉🏻 [PICKTORY GitHub](https://github.com/dnd-side-project/dnd-12th-5-backend)
+👉🏻 [PICKTORY GitHub](https://github.com/kitechoi/dnd-12th-5-backend)
 
 <br/>
 
