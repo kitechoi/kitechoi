@@ -1,85 +1,46 @@
-<div align=center>
-  
-![header](https://capsule-render.vercel.app/api?type=waving&color=9932CC&fontColor=000000&text=kitechoi&fontAlign=50&fontAlignY=35&fontSize=40&desc=Hypothesis%20·%20Validation%20·%20Iteration&descAlignY=70&descAlign=50)
+# 최연
 
-<h3 align="center"><b>PROFILE</b></h3>
-<p align="center">
-  <img src="https://github.com/kitechoi.png" width="120" alt="profile-pic" style="border-radius:50%"/>
-</p>
-<p align="center">
-  <a href="https://github.com/kitechoi" target="_blank"><img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/></a>
-  <a href="https://velog.io/@whyceline/posts" target="_blank"><img src="https://img.shields.io/badge/techblog-666666?style=for-the-badge&logo=velog&logoColor=FFFFFF"/></a>
-</p>
+Java와 Spring Boot로 웹 서비스의 백엔드를 개발해 왔습니다.
 
-### 🚀 Tech Stack
-**Languages & Frameworks:**  
-<span>
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-  ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-  ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-  ![Unity3D](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
-</span>
+[Email](mailto:chevel0212@gmail.com)
 
-**Database & Infra:**  
-<span>
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-  ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-  ![Naver Cloud](https://img.shields.io/badge/Naver%20Cloud-03C75A?style=flat&logo=naver&logoColor=white)
-  ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
-</span>
+## Education
 
-**Tools & DevOps:**  
-<span>
-  ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github&logoColor=white)
-  ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
-  ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
-</span>
+덕성여자대학교 컴퓨터공학 · 사이버보안전공  
+2020.03–2026.02 · 졸업
 
----
+## Experience
 
-<h3 align="center"><b>PROJECT</b></h3>
+한국서부발전 · 발전운영실 인턴  
+2026.07–현재
 
-<div align="center" style="width: 70%; margin: 0 auto; text-align: left;">
+뽀득 · 백엔드 인턴 (미래내일 일경험)  
+2025.04–2025.07
 
-### 🎁 PICKTORY (선물 추천 서비스)
-사용자가 선물 후보를 정리하고 상대방의 의견을 받을 수 있는 서비스 [www.picktory.net 바로가기](https://www.picktory.net)
+## Projects
 
-**기술 스택:** Java, Spring Boot, JPA, MySQL, AWS EC2, S3, CloudWatch  
-👉🏻 [PICKTORY GitHub](https://github.com/kitechoi/dnd-12th-5-backend)
+### PilaSlot
 
-<br/>
+필라테스 수업 예약 서비스  
+2026.08–현재 · 개인 프로젝트
 
-### 💤 Raem (AI 기반 수면 알림 서비스)  
-Apple Watch 센서 데이터를 활용한 AI 기반 실시간 수면 분석 및 알림 서비스  
-**기술 스택:** Swift, iOS, WatchOS, CoreML, Python, NumPy, Pandas, AWS S3  
-**역할:** AI 모델 연동 및 데이터 전처리, 실시간 분석 및 피드백 시스템 개발  
-👉🏻 [Raem GitHub](https://github.com/kitechoi/Raem_FE)
+[GitHub](https://github.com/kitechoi/pilates-booking-be) · [서비스](https://pilaslot.xyz)
 
-<br/>
+- 예약·취소 및 수강권 차감·환불 기능 구현
+- 비관적 락을 적용한 예약 처리와 동시성 테스트 작성
+- Blue-Green 배포 자동화 및 헬스체크 기반 롤백 구현
 
-### 🏫 DUKJOB (맞춤형 교내활동 추천 & 통합 검색 서비스)  
-덕성여대 학생들을 위한 맞춤형 교내활동 검색 및 추천 사이트  
-**기술 스택:** Python, Django, PostgreSQL, BeautifulSoup, JavaScript, HTML/CSS  
-**역할:** 팀장, 데이터 스크래핑, 필터링, 페이지네이션, 스크랩 기능 구현  
-👉🏻 [DUKJOB GitHub](https://github.com/kitechoi/ds_DjangoTeam01)
+사용 기술: Java, Spring Boot, JPA, PostgreSQL, AWS, Docker, GitHub Actions
 
-</div>
+### PICKTORY
 
----
+선물 후보를 공유하고 상대방의 의견을 받는 서비스  
+DND 12기 활동: 2024.12–2025.02 · 팀 프로젝트
 
-### 📌 More Projects & Contributions
-🔗 **GitHub:** [@kitechoi](https://github.com/kitechoi)  
-🔗 **Tech Blog:** [whyceline's Velog](https://velog.io/@whyceline/posts)
+[GitHub](https://github.com/dnd-side-project/dnd-12th-5-backend) · [기여 PR](https://github.com/dnd-side-project/dnd-12th-5-backend/pulls?q=is%3Apr+author%3Akitechoi+is%3Amerged)
 
----
+- 선물 보따리·선물 후보 API 및 데이터 모델 설계·구현
+- 백엔드 배포 환경 구축 및 배포 자동화
+- 이미지 업로드 기능 구현 및 CloudFront를 통한 이미지 제공
 
-<p align="center">💡 <i>Always learning and improving through predictions, experiments, and validations.</i> 💡</p>
-
-</div>
+사용 기술: Java, Spring Boot, JPA, MySQL, AWS, GitHub Actions
