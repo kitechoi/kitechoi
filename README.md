@@ -1,4 +1,4 @@
-Java와 Spring Boot로 웹 서비스의 백엔드를 개발해 왔습니다.
+### Hi there 👋
 
 [Email](mailto:chevel0212@gmail.com)
 
